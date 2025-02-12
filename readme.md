@@ -260,5 +260,5 @@ Server will run at: **http://localhost:3000**
 ---
 
 ## 📩 **Submission Details**
-- **GitHub Repository:** [Your GitHub Repo Link]
+- **GitHub Repository:** [https://github.com/Vt221001/janitri_Backend]
 -
