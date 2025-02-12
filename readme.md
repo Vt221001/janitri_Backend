@@ -1,4 +1,4 @@
-# 🚀 Janitri Backend Assignment (Node.js + Express + MongoDB)
+# 🚀 Janitri Backend Assignment (Node.js + Express )
 
 This is a **RESTful API** for managing users, patients, and heart rate data, built using **Node.js, Express, and MongoDB**. The system allows **user registration & login**, **patient management**, and **heart rate data tracking**.
 
