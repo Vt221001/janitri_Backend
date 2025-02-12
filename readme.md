@@ -6,7 +6,7 @@ This is a **RESTful API** for managing users, patients, and heart rate data, bui
 ## 🛠 **Setup & Installation**
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/your-username/janitri-backend.git
+git clone https://github.com/Vt221001/janitri_Backend.git
 cd janitri-backend
 ```
 
